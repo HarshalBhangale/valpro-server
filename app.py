@@ -30,16 +30,21 @@
 #     app.run(debug=True)
 from flask import Flask, request, jsonify
 from flask_cors import CORS
+from werkzeug.security import generate_password_hash, check_password_hash
 from prop_valuation import compute_valuation  # Import the function from the module
 import pandas as pd
 
 app = Flask(__name__)
 CORS(app)
 
+# In-memory database for demonstration purposes
+users = {}
+
 property_data = {
     "industrial": {},
     "office": {}
 }
+
 
 def load_csv_data():
     # industrial_cap_rates = pd.read_csv('/mnt/data/updated_caprates_industrial.csv')
@@ -55,13 +60,15 @@ def load_csv_data():
     property_data['industrial']['rentals'] = industrial_rentals.to_dict(orient='records')
     property_data['office']['cap_rates'] = office_cap_rates.to_dict(orient='records')
     property_data['office']['rentals'] = office_rentals.to_dict(orient='records')
-
 load_csv_data()
 
 @app.route('/login', methods=['POST'])
 def login():
     data = request.get_json()
-    if data['username'] == 'admin' and data['password'] == 'password':
+    username = data.get('username')
+    password = data.get('password')
+
+    if username in users and check_password_hash(users[username], password):
         return jsonify({"message": "Login successful"}), 200
     else:
         return jsonify({"error": "Invalid credentials"}), 401
@@ -69,7 +76,14 @@ def login():
 @app.route('/register', methods=['POST'])
 def register():
     data = request.get_json()
-    return jsonify({"message": "User registered successfully"}), 201
+    username = data.get('username')
+    password = data.get('password')
+
+    if username in users:
+        return jsonify({"error": "User already exists"}), 400
+    else:
+        users[username] = generate_password_hash(password)
+        return jsonify({"message": "User registered successfully"}), 201
 
 @app.route('/property', methods=['GET'])
 def get_property_data():

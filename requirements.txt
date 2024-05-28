@@ -5,3 +5,4 @@ googlemaps
 flask
 python-dotenv
 flask-cors
+Werkzeug

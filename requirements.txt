@@ -4,3 +4,7 @@ shapely
 googlemaps
 flask
 python-dotenv
+gunicorn
+streamlit
+streamlit-folium
+folium

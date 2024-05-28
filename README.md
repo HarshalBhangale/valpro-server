@@ -24,14 +24,20 @@ This repository contains the backend for the Property MastR application, a prope
 - Google Maps API key (for geolocation)
 
 ## Installation
+# Clone the repository
+git clone https://github.com/NumberBoost/propmastr-backend.git
+cd propmastr-backend
 
-**Clone the repository**:
-   
-   git clone https://github.com/NumberBoost/propmastr-backend.git
-   cd propmastr-backend
+# Create and activate a virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-**pip install -r requirements.txt**
+# Install the dependencies
+pip install -r requirements.txt
 
-**GOOGLE_MAPS_API_KEY=your_google_maps_api_key**
+# Set up environment variables
+echo "GOOGLE_MAPS_API_KEY=your_google_maps_api_key" > .env
 
-**python app.py**
+# Run the Flask app
+python app.py
+

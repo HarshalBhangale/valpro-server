@@ -1,15 +1,21 @@
-# Makefile
+# Makefile for Unix-like systems
+VENV := env
+REQUIREMENTS := requirements.txt
 
-# Create and activate virtual environment and install dependencies
-setup:
-	@echo "Creating virtual environment..."
-	python3 -m venv env
-	@echo "Activating virtual environment and installing dependencies..."
-	${shell source env/bin/activate; pip install -r requirements.txt; deactivate;}
+.PHONY: setup env clean
+
+# Default target
+setup: env
+
+# Setup virtual environment and install dependencies
+env:
+	@echo "Setting up Python virtual environment and installing dependencies..."
+	@python3 -m venv $(VENV) && \
+		. $(VENV)/bin/activate && \
+		pip install -r $(REQUIREMENTS) && \
+		python app.py
 
 # Clean up the environment by removing it
 clean:
 	@echo "Cleaning up..."
-	rm -rf env
-
-.PHONY: setup clean
+	@rm -rf $(VENV)

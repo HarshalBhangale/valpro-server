@@ -1,0 +1,65 @@
+area,region,geo_lookup,type,industrial_subtype,caprate_industrial_2022:2,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,latitude,longitude
+ Bloemfontein,Bloemfontein," Bloemfontein, Bloemfontein, South Africa", industrial, prime industrial park,10.6,,,,,,,,,,,,,,,,,,,,,,,,,-29.1185721,26.2264292
+ Cape Town,Cape Town," Cape Town, Cape Town, South Africa", industrial, prime industrial park,9.3,,,,,,,,,,,,,,,,,,,,,,,,,-33.9224221,18.4263523
+ Central Wits,Central Witwatersrand," Central Wits, Central Witwatersrand, South Africa", industrial, prime industrial park,10.1,,,,,,,,,,,,,,,,,,,,,,,,,-26.25,28.0
+ Durban,Durban," Durban, Durban, South Africa", industrial, prime industrial park,9.5,,,,,,,,,,,,,,,,,,,,,,,,,-29.8448444,31.0230108
+ East London,East London," East London, East London, South Africa", industrial, prime industrial park,10.8,,,,,,,,,,,,,,,,,,,,,,,,,-33.0166531,27.9077491
+ East Rand,East Rand," East Rand, East Rand, South Africa", industrial, prime industrial park,9.5,,,,,,,,,,,,,,,,,,,,,,,,,-26.17722,28.22194
+ East Rand,East Rand," East Rand, East Rand, South Africa", industrial, prime industrial park,9.6,,,,,,,,,,,,,,,,,,,,,,,,,-26.17722,28.22194
+ Far East Rand,Far East Rand," Far East Rand, Far East Rand, South Africa", industrial, prime industrial park,10.5,,,,,,,,,,,,,,,,,,,,,,,,,-26.17722,28.22194
+ George,George," George, George, South Africa", industrial, prime industrial park,9.3,,,,,,,,,,,,,,,,,,,,,,,,,-33.9317385,22.4590246
+ Gqeberha,Gqeberha," Gqeberha, Gqeberha, South Africa", industrial, prime industrial park,10.3,,,,,,,,,,,,,,,,,,,,,,,,,-33.960102,25.6242957
+ Mbombela,Mbombela," Mbombela, Mbombela, South Africa", industrial, prime industrial park,9.7,,,,,,,,,,,,,,,,,,,,,,,,,-25.481944,30.984722
+ Pietermaritzburg,Pietermaritzburg," Pietermaritzburg, Pietermaritzburg, South Africa", industrial, prime industrial park,9.8,,,,,,,,,,,,,,,,,,,,,,,,,-29.6107467,30.3683735
+ Polokwane,Polokwane," Polokwane, Polokwane, South Africa", industrial, prime industrial park,10.5,,,,,,,,,,,,,,,,,,,,,,,,,-23.8297678,29.4983192
+ Pretoria,Pretoria," Pretoria, Pretoria, South Africa", industrial, prime industrial park,10.1,,,,,,,,,,,,,,,,,,,,,,,,,-25.7425492,28.2885639
+ Vaal Triangle,Vaal Triangle," Vaal Triangle, Vaal Triangle, South Africa", industrial, prime industrial park,10.8,,,,,,,,,,,,,,,,,,,,,,,,,-26.74627,27.87404
+ West Rand,West Rand," West Rand, West Rand, South Africa", industrial, prime industrial park,10.5,,,,,,,,,,,,,,,,,,,,,,,,,-26.303655,27.7636345
+ Windhoek,Windhoek," Windhoek, Windhoek, South Africa", industrial, prime industrial park,9.1,,,,,,,,,,,,,,,,,,,,,,,,,-33.5287,21.68229
+ Bloemfontein,Bloemfontein," Bloemfontein, Bloemfontein, South Africa", industrial, prime leaseback,10.4,,,,,,,,,,,,,,,,,,,,,,,,,-29.1185721,26.2264292
+ Cape Town,Cape Town," Cape Town, Cape Town, South Africa", industrial, prime leaseback,8.8,,,,,,,,,,,,,,,,,,,,,,,,,-33.9224221,18.4263523
+ Central Wits,Central Witwatersrand," Central Wits, Central Witwatersrand, South Africa", industrial, prime leaseback,9.8,,,,,,,,,,,,,,,,,,,,,,,,,-26.25,28.0
+ Durban,Durban," Durban, Durban, South Africa", industrial, prime leaseback,9.1,,,,,,,,,,,,,,,,,,,,,,,,,-29.8448444,31.0230108
+ East London,East London," East London, East London, South Africa", industrial, prime leaseback,10.0,,,,,,,,,,,,,,,,,,,,,,,,,-33.0166531,27.9077491
+ Far East Rand,Far East Rand," Far East Rand, Far East Rand, South Africa", industrial, prime leaseback,10.3,,,,,,,,,,,,,,,,,,,,,,,,,-26.17722,28.22194
+ George,George," George, George, South Africa", industrial, prime leaseback,9.3,,,,,,,,,,,,,,,,,,,,,,,,,-33.9317385,22.4590246
+ Gqeberha,Gqeberha," Gqeberha, Gqeberha, South Africa", industrial, prime leaseback,9.8,,,,,,,,,,,,,,,,,,,,,,,,,-33.960102,25.6242957
+ Mbombela,Mbombela," Mbombela, Mbombela, South Africa", industrial, prime leaseback,10.0,,,,,,,,,,,,,,,,,,,,,,,,,-25.481944,30.984722
+ Pietermaritzburg,Pietermaritzburg," Pietermaritzburg, Pietermaritzburg, South Africa", industrial, prime leaseback,10.0,,,,,,,,,,,,,,,,,,,,,,,,,-29.6107467,30.3683735
+ Polokwane,Polokwane," Polokwane, Polokwane, South Africa", industrial, prime leaseback,9.8,,,,,,,,,,,,,,,,,,,,,,,,,-23.8297678,29.4983192
+ Pretoria,Pretoria," Pretoria, Pretoria, South Africa", industrial, prime leaseback,10.0,,,,,,,,,,,,,,,,,,,,,,,,,-25.7425492,28.2885639
+ Vaal Triangle,Vaal Triangle," Vaal Triangle, Vaal Triangle, South Africa", industrial, prime leaseback,10.5,,,,,,,,,,,,,,,,,,,,,,,,,-26.74627,27.87404
+ West Rand,West Rand," West Rand, West Rand, South Africa", industrial, prime leaseback,10.2,,,,,,,,,,,,,,,,,,,,,,,,,-26.303655,27.7636345
+ Windhoek,Windhoek," Windhoek, Windhoek, South Africa", industrial, prime leaseback,8.9,,,,,,,,,,,,,,,,,,,,,,,,,-33.5287,21.68229
+ Bloemfontein,Bloemfontein," Bloemfontein, Bloemfontein, South Africa", industrial, prime quality non-leaseback,10.3,,,,,,,,,,,,,,,,,,,,,,,,,-29.1185721,26.2264292
+ Cape Town,Cape Town," Cape Town, Cape Town, South Africa", industrial, prime quality non-leaseback,9.4,,,,,,,,,,,,,,,,,,,,,,,,,-33.9224221,18.4263523
+ Central Wits,Central Witwatersrand," Central Wits, Central Witwatersrand, South Africa", industrial, prime quality non-leaseback,10.1,,,,,,,,,,,,,,,,,,,,,,,,,-26.25,28.0
+ Durban,Durban," Durban, Durban, South Africa", industrial, prime quality non-leaseback,9.5,,,,,,,,,,,,,,,,,,,,,,,,,-29.8448444,31.0230108
+ East London,East London," East London, East London, South Africa", industrial, prime quality non-leaseback,10.8,,,,,,,,,,,,,,,,,,,,,,,,,-33.0166531,27.9077491
+ East Rand,East Rand," East Rand, East Rand, South Africa", industrial, prime quality non-leaseback,10.2,,,,,,,,,,,,,,,,,,,,,,,,,-26.17722,28.22194
+ Far East Rand,Far East Rand," Far East Rand, Far East Rand, South Africa", industrial, prime quality non-leaseback,10.9,,,,,,,,,,,,,,,,,,,,,,,,,-26.17722,28.22194
+ George,George," George, George, South Africa", industrial, prime quality non-leaseback,9.8,,,,,,,,,,,,,,,,,,,,,,,,,-33.9317385,22.4590246
+ Gqeberha,Gqeberha," Gqeberha, Gqeberha, South Africa", industrial, prime quality non-leaseback,10.2,,,,,,,,,,,,,,,,,,,,,,,,,-33.960102,25.6242957
+ Mbombela,Mbombela," Mbombela, Mbombela, South Africa", industrial, prime quality non-leaseback,10.1,,,,,,,,,,,,,,,,,,,,,,,,,-25.481944,30.984722
+ Pietermaritzburg,Pietermaritzburg," Pietermaritzburg, Pietermaritzburg, South Africa", industrial, prime quality non-leaseback,10.5,,,,,,,,,,,,,,,,,,,,,,,,,-29.6107467,30.3683735
+ Polokwane,Polokwane," Polokwane, Polokwane, South Africa", industrial, prime quality non-leaseback,10.5,,,,,,,,,,,,,,,,,,,,,,,,,-23.8297678,29.4983192
+ Pretoria,Pretoria," Pretoria, Pretoria, South Africa", industrial, prime quality non-leaseback,10.3,,,,,,,,,,,,,,,,,,,,,,,,,-25.7425492,28.2885639
+ Vaal Triangle,Vaal Triangle," Vaal Triangle, Vaal Triangle, South Africa", industrial, prime quality non-leaseback,11.0,,,,,,,,,,,,,,,,,,,,,,,,,-26.74627,27.87404
+ West Rand,West Rand," West Rand, West Rand, South Africa", industrial, prime quality non-leaseback,10.4,,,,,,,,,,,,,,,,,,,,,,,,,-26.303655,27.7636345
+ Windhoek,Windhoek," Windhoek, Windhoek, South Africa", industrial, prime quality non-leaseback,8.9,,,,,,,,,,,,,,,,,,,,,,,,,-33.5287,21.68229
+ Bloemfontein,Bloemfontein," Bloemfontein, Bloemfontein, South Africa", industrial, secondary quality building,11.1,,,,,,,,,,,,,,,,,,,,,,,,,-29.1185721,26.2264292
+ Cape Town,Cape Town," Cape Town, Cape Town, South Africa", industrial, secondary quality building,10.1,,,,,,,,,,,,,,,,,,,,,,,,,-33.9224221,18.4263523
+ Central Wits,Central Witwatersrand," Central Wits, Central Witwatersrand, South Africa", industrial, secondary quality building,11.4,,,,,,,,,,,,,,,,,,,,,,,,,-26.25,28.0
+ Durban,Durban," Durban, Durban, South Africa", industrial, secondary quality building,10.6,,,,,,,,,,,,,,,,,,,,,,,,,-29.8448444,31.0230108
+ East London,East London," East London, East London, South Africa", industrial, secondary quality building,11.8,,,,,,,,,,,,,,,,,,,,,,,,,-33.0166531,27.9077491
+ East Rand,East Rand," East Rand, East Rand, South Africa", industrial, secondary quality building,11.0,,,,,,,,,,,,,,,,,,,,,,,,,-26.17722,28.22194
+ Far East Rand,Far East Rand," Far East Rand, Far East Rand, South Africa", industrial, secondary quality building,11.8,,,,,,,,,,,,,,,,,,,,,,,,,-26.17722,28.22194
+ George,George," George, George, South Africa", industrial, secondary quality building,10.3,,,,,,,,,,,,,,,,,,,,,,,,,-33.9317385,22.4590246
+ Gqeberha,Gqeberha," Gqeberha, Gqeberha, South Africa", industrial, secondary quality building,11.2,,,,,,,,,,,,,,,,,,,,,,,,,-33.960102,25.6242957
+ Mbombela,Mbombela," Mbombela, Mbombela, South Africa", industrial, secondary quality building,11.3,,,,,,,,,,,,,,,,,,,,,,,,,-25.481944,30.984722
+ Pietermaritzburg,Pietermaritzburg," Pietermaritzburg, Pietermaritzburg, South Africa", industrial, secondary quality building,10.8,,,,,,,,,,,,,,,,,,,,,,,,,-29.6107467,30.3683735
+ Polokwane,Polokwane," Polokwane, Polokwane, South Africa", industrial, secondary quality building,11.5,,,,,,,,,,,,,,,,,,,,,,,,,-23.8297678,29.4983192
+ Pretoria,Pretoria," Pretoria, Pretoria, South Africa", industrial, secondary quality building,11.1,,,,,,,,,,,,,,,,,,,,,,,,,-25.7425492,28.2885639
+ Vaal Triangle,Vaal Triangle," Vaal Triangle, Vaal Triangle, South Africa", industrial, secondary quality building,11.8,,,,,,,,,,,,,,,,,,,,,,,,,-26.74627,27.87404
+ West Rand,West Rand," West Rand, West Rand, South Africa", industrial, secondary quality building,11.1,,,,,,,,,,,,,,,,,,,,,,,,,-26.303655,27.7636345
+ Windhoek,Windhoek," Windhoek, Windhoek, South Africa", industrial, secondary quality building,9.1,,,,,,,,,,,,,,,,,,,,,,,,,-33.5287,21.68229

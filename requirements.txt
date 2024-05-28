@@ -1,0 +1,6 @@
+pandas
+geopandas
+shapely
+googlemaps
+flask
+python-dotenv

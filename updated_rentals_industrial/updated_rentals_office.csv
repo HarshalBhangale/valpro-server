@@ -1,0 +1,376 @@
+area,region,geo_lookup,office_grade,rental_office_2022:2,latitude,longitude
+ Bloemfontein CBD,Bloemfontein, Bloemfontein CBD; Bloemfontein; South Africa, grade A,117.0,-29.116874,26.2197159
+ Westdene,Bloemfontein, Westdene; Bloemfontein; South Africa, grade A,115.0,50.8592269,-0.1620789
+ Cape Town CBD,Cape Town, Cape Town CBD; Cape Town; South Africa, grade A,131.5,-33.9222066,18.4172844
+ Cape Town decentralized,Cape Town, Cape Town decentralized; Cape Town; South Africa, grade A,139.1,,
+ Century City,Cape Town, Century City; Cape Town; South Africa, grade A,143.75,34.0573589,-118.4146078
+ Claremont Lower,Cape Town, Claremont Lower; Cape Town; South Africa, grade A,159.0,43.3734068,-72.3462005
+ Claremont Upper,Cape Town, Claremont Upper; Cape Town; South Africa, grade A,152.0,51.2281106,-0.3323575
+ Durbanville,Cape Town, Durbanville; Cape Town; South Africa, grade A,130.0,-33.8402778,18.6494444
+ Gardens,Cape Town, Gardens; Cape Town; South Africa, grade A,138.0,-33.9327778,18.4097222
+ Goodwood (N1 City),Cape Town, Goodwood (N1 City); Cape Town; South Africa, grade A,122.5,-33.8940341,18.5591131
+ Granger Bay,Cape Town, Granger Bay; Cape Town; South Africa, grade A,163.75,-33.9016667,18.4191667
+ Hout Bay,Cape Town, Hout Bay; Cape Town; South Africa, grade A,135.0,-34.043093,18.355645
+ Kenilworth (Racecourse),Cape Town, Kenilworth (Racecourse); Cape Town; South Africa, grade A,124.67,-33.99553,18.4850198
+ Kuils River,Cape Town, Kuils River; Cape Town; South Africa, grade A,72.5,-33.8430868,18.6678235
+ Milnerton,Cape Town, Milnerton; Cape Town; South Africa, grade A,126.67,-33.8794444,18.4963889
+ Mowbray,Cape Town, Mowbray; Cape Town; South Africa, grade A,111.67,-33.9483333,18.4741667
+ Newlands,Cape Town, Newlands; Cape Town; South Africa, grade A,173.75,55.8171461,-4.2804376
+ Noordhoek (Sun Valley),Cape Town, Noordhoek (Sun Valley); Cape Town; South Africa, grade A,130.0,-34.1207993,18.3917929
+ Observatory/Black River Park,Cape Town, Observatory/Black River Park; Cape Town; South Africa, grade A,126.67,-33.9344805,18.4721497
+ Paarl,Cape Town, Paarl; Cape Town; South Africa, grade A,170.0,-33.7310282,18.9642117
+ Pinelands/Golf Park,Cape Town, Pinelands/Golf Park; Cape Town; South Africa, grade A,130.0,-33.9478648,18.4904015
+ Rondebosch,Cape Town, Rondebosch; Cape Town; South Africa, grade A,141.14,-33.9680556,18.4877778
+ Salt River,Cape Town, Salt River; Cape Town; South Africa, grade A,110.83,33.4667115,-111.8640311
+ Sea Point,Cape Town, Sea Point; Cape Town; South Africa, grade A,138.75,-33.9172222,18.3922222
+ Table View/Parklands,Cape Town, Table View/Parklands; Cape Town; South Africa, grade A,140.0,-33.7971984,18.4956559
+ Tokai,Cape Town, Tokai; Cape Town; South Africa, grade A,145.0,6.0285312,100.4069001
+ Tyger Valley area,Cape Town, Tyger Valley area; Cape Town; South Africa, grade A,133.44,44.83141,9.41722
+ Tygerberg Hills/Plattekloof,Cape Town, Tygerberg Hills/Plattekloof; Cape Town; South Africa, grade A,154.17,,
+ Westlake,Cape Town, Westlake; Cape Town; South Africa, grade A,143.0,32.991226,-97.1943701
+ Woodstock,Cape Town, Woodstock; Cape Town; South Africa, grade A,109.17,42.0410578,-74.1182492
+ Wynberg,Cape Town, Wynberg; Cape Town; South Africa, grade A,125.0,-34.0036249,18.4672507
+ Durban Berea,Durban, Durban Berea; Durban; South Africa, grade A,125.0,-29.8505556,31.0019444
+ Durban decentralized,Durban, Durban decentralized; Durban; South Africa, grade A,144.3,,
+ Essex Terrace,Durban, Essex Terrace; Durban; South Africa, grade A,154.17,51.6511064,-3.9341774
+ Hillcrest-Kloof (Upper Highway),Durban, Hillcrest-Kloof (Upper Highway); Durban; South Africa, grade A,157.5,,
+ La Lucia Ridge,Durban, La Lucia Ridge; Durban; South Africa, grade A,150.63,40.89399,-72.89594
+ Pinetown,Durban, Pinetown; Durban; South Africa, grade A,70.0,38.74539,-75.2237981
+ Umhlanga,Durban, Umhlanga; Durban; South Africa, grade A,159.17,-31.4642608,27.213629
+ Westville CBD,Durban, Westville CBD; Durban; South Africa, grade A,135.0,,
+ Westway,Durban, Westway; Durban; South Africa, grade A,140.0,31.9591108,-106.575002
+ Beacon Bay,East London, Beacon Bay; East London; South Africa, grade A,127.0,-32.9694444,27.9447222
+ Berea East London,East London, Berea East London; East London; South Africa, grade A,127.5,-32.9902778,27.9172222
+ Chiselhurst,East London, Chiselhurst; East London; South Africa, grade A,132.0,-32.9855556,27.8861111
+ East London CBD,East London, East London CBD; East London; South Africa, grade A,73.0,,
+ Vincent,East London, Vincent; East London; South Africa, grade A,122.5,46.7862,5.48925
+ Boksburg North,East Rand, Boksburg North; East Rand; South Africa, grade A,145.0,-26.2084475,28.2535265
+ Gqeberha CBD,Gqeberha, Gqeberha CBD; Gqeberha; South Africa, grade A,72.5,,
+ Humerail/Humewood,Gqeberha, Humerail/Humewood; Gqeberha; South Africa, grade A,120.0,-33.9710789,25.6343252
+ Newton Park/Cape Road,Gqeberha, Newton Park/Cape Road; Gqeberha; South Africa, grade A,100.0,-33.9480154,25.5585652
+ South End,Gqeberha, South End; Gqeberha; South Africa, grade A,97.5,42.34131,-71.0772298
+" Walmer Park 1, 2 & 3",Gqeberha," Walmer Park 1, 2 & 3; Gqeberha; South Africa", grade A,116.25,47.28167,8.45023
+ Bedfordview,Johannesburg  , Bedfordview; Johannesburg  ; South Africa, grade A,119.07,-26.1763889,28.1425
+ Braamfontein,Johannesburg  , Braamfontein; Johannesburg  ; South Africa, grade A,106.25,-26.1923008,28.0361353
+ Bruma,Johannesburg  , Bruma; Johannesburg  ; South Africa, grade A,95.0,43.1539661,-8.3637157
+ Chislehurston,Johannesburg  , Chislehurston; Johannesburg  ; South Africa, grade A,142.5,,
+ Constantia Kloof,Johannesburg  , Constantia Kloof; Johannesburg  ; South Africa, grade A,120.0,-26.1447222,27.9097222
+ Dunkeld West,Johannesburg  , Dunkeld West; Johannesburg  ; South Africa, grade A,134.0,39.7598061,-105.0190455
+ Eastgate/Kramerville,Johannesburg  , Eastgate/Kramerville; Johannesburg  ; South Africa, grade A,130.0,,
+ Fourways,Johannesburg  , Fourways; Johannesburg  ; South Africa, grade A,140.6,-26.004472,28.0042447
+ Greenstone,Johannesburg  , Greenstone; Johannesburg  ; South Africa, grade A,115.0,49.7188752,-86.9493168
+ Hendrik Potgieter Corridor (incl. Ruimsig),Johannesburg  , Hendrik Potgieter Corridor (incl. Ruimsig); Johannesburg  ; South Africa, grade A,115.0,,
+ Houghton,Johannesburg  , Houghton; Johannesburg  ; South Africa, grade A,157.5,46.8591287,-88.7774734
+ Hyde Park,Johannesburg  , Hyde Park; Johannesburg  ; South Africa, grade A,130.0,51.5074889,-0.1622074
+ Illovo,Johannesburg  , Illovo; Johannesburg  ; South Africa, grade A,149.75,-26.1227778,28.0552778
+ Illovo Boulevard,Johannesburg  , Illovo Boulevard; Johannesburg  ; South Africa, grade A,145.0,32.66367,-116.27363
+ Johannesburg CBD,Johannesburg  , Johannesburg CBD; Johannesburg  ; South Africa, grade A,95.0,,
+ Johannesburg decentralized,Johannesburg  , Johannesburg decentralized; Johannesburg  ; South Africa, grade A,139.49,,
+ Melrose Arch,Johannesburg  , Melrose Arch; Johannesburg  ; South Africa, grade A,198.33,-26.1319975,28.0671077
+ Midrand,Johannesburg  , Midrand; Johannesburg  ; South Africa, grade A,118.4,-25.999262,28.125912
+ Morningside,Johannesburg  , Morningside; Johannesburg  ; South Africa, grade A,115.0,55.9296409,-3.2100796
+ Parktown,Johannesburg  , Parktown; Johannesburg  ; South Africa, grade A,123.33,-26.1816667,28.0277778
+ Randburg Ferndale,Johannesburg  , Randburg Ferndale; Johannesburg  ; South Africa, grade A,89.33,-26.0847222,27.9894444
+ Richmond/Milpark,Johannesburg  , Richmond/Milpark; Johannesburg  ; South Africa, grade A,107.5,,
+ Rivonia,Johannesburg  , Rivonia; Johannesburg  ; South Africa, grade A,111.07,-26.0533333,28.0594444
+ Rosebank,Johannesburg  , Rosebank; Johannesburg  ; South Africa, grade A,176.39,55.7260463,-3.9022029
+ Sandton CBD,Johannesburg  , Sandton CBD; Johannesburg  ; South Africa, grade A,161.67,-1.283352,36.8258824
+ Sunninghill,Johannesburg  , Sunninghill; Johannesburg  ; South Africa, grade A,98.75,51.4015129,-0.6559139
+ Waterfall,Johannesburg  , Waterfall; Johannesburg  ; South Africa, grade A,175.0,51.8550758,-8.553692
+ Waverley/Bramley,Johannesburg  , Waverley/Bramley; Johannesburg  ; South Africa, grade A,135.0,51.1633664,-0.5498919
+ Wierda Valley,Johannesburg  , Wierda Valley; Johannesburg  ; South Africa, grade A,125.83,-26.1130093,28.0573371
+ Woodmead,Johannesburg  , Woodmead; Johannesburg  ; South Africa, grade A,125.94,-26.0433333,28.0644444
+ Mbombela dec,Mbombela, Mbombela dec; Mbombela; South Africa, grade A,160.0,39.84031,-88.9548
+ National decentralized,National, National decentralized; National; South Africa, grade A,139.78,37.9746342,23.7314348
+ Pietermaritzburg dec,Pietermaritzburg, Pietermaritzburg dec; Pietermaritzburg; South Africa, grade A,140.0,39.84031,-88.9548
+ Polokwane,Polokwane, Polokwane; Polokwane; South Africa, grade A,129.25,-23.9058333,29.4613889
+ Arcadia,Pretoria, Arcadia; Pretoria; South Africa, grade A,125.5,34.1362075,-118.0401497
+ Brooklyn/Waterkloof,Pretoria, Brooklyn/Waterkloof; Pretoria; South Africa, grade A,160.0,-25.7740102,28.2400475
+ Centurion,Pretoria, Centurion; Pretoria; South Africa, grade A,122.5,-25.836389,28.180278
+ Faerie Glen,Pretoria, Faerie Glen; Pretoria; South Africa, grade A,129.33,-25.7816666,28.3077777
+ Hatfield/Hillcrest,Pretoria, Hatfield/Hillcrest; Pretoria; South Africa, grade A,126.67,-25.7476402,28.2378733
+ Highveld Extensions,Pretoria, Highveld Extensions; Pretoria; South Africa, grade A,137.5,,
+ Highveld Technopark,Pretoria, Highveld Technopark; Pretoria; South Africa, grade A,130.0,,
+ Lynnwood,Pretoria, Lynnwood; Pretoria; South Africa, grade A,153.33,47.8278656,-122.3053932
+ Lynnwood Glen,Pretoria, Lynnwood Glen; Pretoria; South Africa, grade A,125.0,-25.7727778,28.2794444
+ Lynnwood Manor,Pretoria, Lynnwood Manor; Pretoria; South Africa, grade A,161.67,-25.7630556,28.2811111
+ Lynnwood Ridge,Pretoria, Lynnwood Ridge; Pretoria; South Africa, grade A,125.0,-25.7627778,28.2933333
+ Menlo Park/Hazelwood,Pretoria, Menlo Park/Hazelwood; Pretoria; South Africa, grade A,150.67,-25.7776146,28.266343
+ Menlyn,Pretoria, Menlyn; Pretoria; South Africa, grade A,170.0,-25.7841667,28.2755556
+ Nieuw Muckleneuk,Pretoria, Nieuw Muckleneuk; Pretoria; South Africa, grade A,146.67,,
+ Pretoria CBD,Pretoria, Pretoria CBD; Pretoria; South Africa, grade A,97.5,-25.7492568,28.1920158
+ Pretoria decentralized,Pretoria, Pretoria decentralized; Pretoria; South Africa, grade A,139.47,35.0381015,25.1462563
+ Route 21 Corp. Park,Pretoria, Route 21 Corp. Park; Pretoria; South Africa, grade A,118.5,39.11251,-100.35875
+ Silver Lakes/Die Wilgers,Pretoria, Silver Lakes/Die Wilgers; Pretoria; South Africa, grade A,121.25,,
+ Val de Grace,Pretoria, Val de Grace; Pretoria; South Africa, grade A,120.0,48.8422427,2.3438924
+ Windhoek,Windhoek, Windhoek; Windhoek; South Africa, grade A,202.5,-22.5776104,17.0772739
+ Bryanston/Epsom Downs,Johannesburg  , Bryanston/Epsom Downs; Johannesburg  ; South Africa, grade A,147.33,-26.041802,28.0152277
+ Westdene,Bloemfontein, Westdene; Bloemfontein; South Africa, grade A+,131.25,50.8592269,-0.1620789
+ Cape Town CBD,Cape Town, Cape Town CBD; Cape Town; South Africa, grade A+,157.86,-33.9222066,18.4172844
+ Century City,Cape Town, Century City; Cape Town; South Africa, grade A+,172.14,34.0573589,-118.4146078
+ Claremont Lower,Cape Town, Claremont Lower; Cape Town; South Africa, grade A+,180.0,43.3734068,-72.3462005
+ Claremont Upper,Cape Town, Claremont Upper; Cape Town; South Africa, grade A+,175.0,51.2281106,-0.3323575
+ Gardens,Cape Town, Gardens; Cape Town; South Africa, grade A+,150.0,-33.9327778,18.4097222
+ Goodwood (N1 City),Cape Town, Goodwood (N1 City); Cape Town; South Africa, grade A+,140.0,-33.8940341,18.5591131
+ Kenilworth (Racecourse),Cape Town, Kenilworth (Racecourse); Cape Town; South Africa, grade A+,140.0,-33.99553,18.4850198
+ Kuils River,Cape Town, Kuils River; Cape Town; South Africa, grade A+,82.5,-33.8430868,18.6678235
+ Mowbray,Cape Town, Mowbray; Cape Town; South Africa, grade A+,115.0,-33.9483333,18.4741667
+ Newlands,Cape Town, Newlands; Cape Town; South Africa, grade A+,206.25,55.8171461,-4.2804376
+ Observatory/Black River Park,Cape Town, Observatory/Black River Park; Cape Town; South Africa, grade A+,135.0,-33.9344805,18.4721497
+ Paarl,Cape Town, Paarl; Cape Town; South Africa, grade A+,180.0,-33.7310282,18.9642117
+ Rondebosch,Cape Town, Rondebosch; Cape Town; South Africa, grade A+,154.67,-33.9680556,18.4877778
+ Salt River,Cape Town, Salt River; Cape Town; South Africa, grade A+,118.33,33.4667115,-111.8640311
+ Sea Point,Cape Town, Sea Point; Cape Town; South Africa, grade A+,150.0,-33.9172222,18.3922222
+ Tyger Valley area,Cape Town, Tyger Valley area; Cape Town; South Africa, grade A+,154.0,44.83141,9.41722
+ Woodstock,Cape Town, Woodstock; Cape Town; South Africa, grade A+,116.25,42.0410578,-74.1182492
+ Wynberg,Cape Town, Wynberg; Cape Town; South Africa, grade A+,130.0,-34.0036249,18.4672507
+ Durban Berea,Durban, Durban Berea; Durban; South Africa, grade A+,155.0,-29.8505556,31.0019444
+ Essex Terrace,Durban, Essex Terrace; Durban; South Africa, grade A+,162.5,51.6511064,-3.9341774
+ Hillcrest-Kloof (Upper Highway),Durban, Hillcrest-Kloof (Upper Highway); Durban; South Africa, grade A+,175.0,,
+ La Lucia Ridge,Durban, La Lucia Ridge; Durban; South Africa, grade A+,170.0,40.89399,-72.89594
+ Umhlanga,Durban, Umhlanga; Durban; South Africa, grade A+,182.5,-31.4642608,27.213629
+ Westville CBD,Durban, Westville CBD; Durban; South Africa, grade A+,140.0,,
+ Westway,Durban, Westway; Durban; South Africa, grade A+,155.0,31.9591108,-106.575002
+ Boksburg North,East Rand, Boksburg North; East Rand; South Africa, grade A+,202.0,-26.2084475,28.2535265
+ Humerail/Humewood,Gqeberha, Humerail/Humewood; Gqeberha; South Africa, grade A+,138.33,-33.9710789,25.6343252
+ Newton Park/Cape Road,Gqeberha, Newton Park/Cape Road; Gqeberha; South Africa, grade A+,116.25,-33.9480154,25.5585652
+ South End,Gqeberha, South End; Gqeberha; South Africa, grade A+,102.5,42.34131,-71.0772298
+" Walmer Park 1, 2 & 3",Gqeberha," Walmer Park 1, 2 & 3; Gqeberha; South Africa", grade A+,126.67,47.28167,8.45023
+ Bedfordview,Johannesburg  , Bedfordview; Johannesburg  ; South Africa, grade A+,140.0,-26.1763889,28.1425
+ Bruma,Johannesburg  , Bruma; Johannesburg  ; South Africa, grade A+,101.0,43.1539661,-8.3637157
+ Chislehurston,Johannesburg  , Chislehurston; Johannesburg  ; South Africa, grade A+,155.0,,
+ Dunkeld West,Johannesburg  , Dunkeld West; Johannesburg  ; South Africa, grade A+,167.5,39.7598061,-105.0190455
+ Eastgate/Kramerville,Johannesburg  , Eastgate/Kramerville; Johannesburg  ; South Africa, grade A+,140.0,,
+ Fourways,Johannesburg  , Fourways; Johannesburg  ; South Africa, grade A+,160.0,-26.004472,28.0042447
+ Greenstone,Johannesburg  , Greenstone; Johannesburg  ; South Africa, grade A+,130.0,49.7188752,-86.9493168
+ Hendrik Potgieter Corridor (incl. Ruimsig),Johannesburg  , Hendrik Potgieter Corridor (incl. Ruimsig); Johannesburg  ; South Africa, grade A+,121.0,,
+ Houghton,Johannesburg  , Houghton; Johannesburg  ; South Africa, grade A+,187.5,46.8591287,-88.7774734
+ Hyde Park,Johannesburg  , Hyde Park; Johannesburg  ; South Africa, grade A+,150.0,51.5074889,-0.1622074
+ Illovo,Johannesburg  , Illovo; Johannesburg  ; South Africa, grade A+,203.57,-26.1227778,28.0552778
+ Illovo Boulevard,Johannesburg  , Illovo Boulevard; Johannesburg  ; South Africa, grade A+,202.5,32.66367,-116.27363
+ Melrose Arch,Johannesburg  , Melrose Arch; Johannesburg  ; South Africa, grade A+,223.75,-26.1319975,28.0671077
+ Midrand,Johannesburg  , Midrand; Johannesburg  ; South Africa, grade A+,160.0,-25.999262,28.125912
+ Morningside,Johannesburg  , Morningside; Johannesburg  ; South Africa, grade A+,120.0,55.9296409,-3.2100796
+ Parktown,Johannesburg  , Parktown; Johannesburg  ; South Africa, grade A+,153.75,-26.1816667,28.0277778
+ Randburg Ferndale,Johannesburg  , Randburg Ferndale; Johannesburg  ; South Africa, grade A+,95.0,-26.0847222,27.9894444
+ Rivonia,Johannesburg  , Rivonia; Johannesburg  ; South Africa, grade A+,116.67,-26.0533333,28.0594444
+ Rosebank,Johannesburg  , Rosebank; Johannesburg  ; South Africa, grade A+,235.61,55.7260463,-3.9022029
+ Sandton CBD,Johannesburg  , Sandton CBD; Johannesburg  ; South Africa, grade A+,215.75,-1.283352,36.8258824
+ Sunninghill,Johannesburg  , Sunninghill; Johannesburg  ; South Africa, grade A+,105.67,51.4015129,-0.6559139
+ Waterfall,Johannesburg  , Waterfall; Johannesburg  ; South Africa, grade A+,204.5,51.8550758,-8.553692
+ Waverley/Bramley,Johannesburg  , Waverley/Bramley; Johannesburg  ; South Africa, grade A+,167.5,51.1633664,-0.5498919
+ Wierda Valley,Johannesburg  , Wierda Valley; Johannesburg  ; South Africa, grade A+,155.0,-26.1130093,28.0573371
+ Woodmead,Johannesburg  , Woodmead; Johannesburg  ; South Africa, grade A+,146.2,-26.0433333,28.0644444
+ Mbombela dec,Mbombela, Mbombela dec; Mbombela; South Africa, grade A+,173.6,39.84031,-88.9548
+ Pietermaritzburg dec,Pietermaritzburg, Pietermaritzburg dec; Pietermaritzburg; South Africa, grade A+,150.0,39.84031,-88.9548
+ Polokwane,Polokwane, Polokwane; Polokwane; South Africa, grade A+,172.0,-23.9058333,29.4613889
+ Brooklyn/Waterkloof,Pretoria, Brooklyn/Waterkloof; Pretoria; South Africa, grade A+,190.0,-25.7740102,28.2400475
+ Centurion,Pretoria, Centurion; Pretoria; South Africa, grade A+,151.25,-25.836389,28.180278
+ Faerie Glen,Pretoria, Faerie Glen; Pretoria; South Africa, grade A+,160.0,-25.7816666,28.3077777
+ Hatfield/Hillcrest,Pretoria, Hatfield/Hillcrest; Pretoria; South Africa, grade A+,155.0,-25.7476402,28.2378733
+ Highveld Extensions,Pretoria, Highveld Extensions; Pretoria; South Africa, grade A+,167.5,,
+ Lynnwood,Pretoria, Lynnwood; Pretoria; South Africa, grade A+,190.0,47.8278656,-122.3053932
+ Lynnwood Glen,Pretoria, Lynnwood Glen; Pretoria; South Africa, grade A+,160.0,-25.7727778,28.2794444
+ Lynnwood Manor,Pretoria, Lynnwood Manor; Pretoria; South Africa, grade A+,213.33,-25.7630556,28.2811111
+ Lynnwood Ridge,Pretoria, Lynnwood Ridge; Pretoria; South Africa, grade A+,160.0,-25.7627778,28.2933333
+ Menlo Park/Hazelwood,Pretoria, Menlo Park/Hazelwood; Pretoria; South Africa, grade A+,180.0,-25.7776146,28.266343
+ Menlyn,Pretoria, Menlyn; Pretoria; South Africa, grade A+,196.67,-25.7841667,28.2755556
+ Nieuw Muckleneuk,Pretoria, Nieuw Muckleneuk; Pretoria; South Africa, grade A+,183.33,,
+ Route 21 Corp. Park,Pretoria, Route 21 Corp. Park; Pretoria; South Africa, grade A+,130.0,39.11251,-100.35875
+ Silver Lakes/Die Wilgers,Pretoria, Silver Lakes/Die Wilgers; Pretoria; South Africa, grade A+,138.33,,
+ Windhoek,Windhoek, Windhoek; Windhoek; South Africa, grade A+,235.0,-22.5776104,17.0772739
+ Bryanston/Epsom Downs,Johannesburg  , Bryanston/Epsom Downs; Johannesburg  ; South Africa, grade A+,173.0,-26.041802,28.0152277
+ Bloemfontein CBD,Bloemfontein, Bloemfontein CBD; Bloemfontein; South Africa, grade B,84.0,-29.116874,26.2197159
+ Westdene,Bloemfontein, Westdene; Bloemfontein; South Africa, grade B,90.4,50.8592269,-0.1620789
+ Bellville CBD,Cape Town, Bellville CBD; Cape Town; South Africa, grade B,83.33,,
+ Cape Town CBD,Cape Town, Cape Town CBD; Cape Town; South Africa, grade B,99.56,-33.9222066,18.4172844
+ Century City,Cape Town, Century City; Cape Town; South Africa, grade B,114.17,34.0573589,-118.4146078
+ Claremont Lower,Cape Town, Claremont Lower; Cape Town; South Africa, grade B,126.67,43.3734068,-72.3462005
+ Claremont Upper,Cape Town, Claremont Upper; Cape Town; South Africa, grade B,130.0,51.2281106,-0.3323575
+ Durbanville,Cape Town, Durbanville; Cape Town; South Africa, grade B,104.17,-33.8402778,18.6494444
+ Gardens,Cape Town, Gardens; Cape Town; South Africa, grade B,98.33,-33.9327778,18.4097222
+ Goodwood (N1 City),Cape Town, Goodwood (N1 City); Cape Town; South Africa, grade B,97.5,-33.8940341,18.5591131
+ Kuils River,Cape Town, Kuils River; Cape Town; South Africa, grade B,63.33,-33.8430868,18.6678235
+ Maitland,Cape Town, Maitland; Cape Town; South Africa, grade B,100.0,-32.7316683,151.5511123
+ Milnerton,Cape Town, Milnerton; Cape Town; South Africa, grade B,86.67,-33.8794444,18.4963889
+ Mowbray,Cape Town, Mowbray; Cape Town; South Africa, grade B,75.0,-33.9483333,18.4741667
+ Newlands,Cape Town, Newlands; Cape Town; South Africa, grade B,150.0,55.8171461,-4.2804376
+ Noordhoek (Sun Valley),Cape Town, Noordhoek (Sun Valley); Cape Town; South Africa, grade B,120.0,-34.1207993,18.3917929
+ Observatory/Black River Park,Cape Town, Observatory/Black River Park; Cape Town; South Africa, grade B,90.0,-33.9344805,18.4721497
+ Paarl,Cape Town, Paarl; Cape Town; South Africa, grade B,150.0,-33.7310282,18.9642117
+ Pinelands/Golf Park,Cape Town, Pinelands/Golf Park; Cape Town; South Africa, grade B,100.0,-33.9478648,18.4904015
+ Rondebosch,Cape Town, Rondebosch; Cape Town; South Africa, grade B,126.88,-33.9680556,18.4877778
+ Salt River,Cape Town, Salt River; Cape Town; South Africa, grade B,82.5,33.4667115,-111.8640311
+ Sea Point,Cape Town, Sea Point; Cape Town; South Africa, grade B,102.5,-33.9172222,18.3922222
+ Table View/Parklands,Cape Town, Table View/Parklands; Cape Town; South Africa, grade B,120.0,-33.7971984,18.4956559
+ Tyger Valley area,Cape Town, Tyger Valley area; Cape Town; South Africa, grade B,115.83,44.83141,9.41722
+ Tygerberg Hills/Plattekloof,Cape Town, Tygerberg Hills/Plattekloof; Cape Town; South Africa, grade B,117.5,,
+ Westlake,Cape Town, Westlake; Cape Town; South Africa, grade B,120.0,32.991226,-97.1943701
+ Woodstock,Cape Town, Woodstock; Cape Town; South Africa, grade B,86.67,42.0410578,-74.1182492
+ Wynberg,Cape Town, Wynberg; Cape Town; South Africa, grade B,93.67,-34.0036249,18.4672507
+ Durban Berea,Durban, Durban Berea; Durban; South Africa, grade B,90.0,-29.8505556,31.0019444
+ Durban CBD,Durban, Durban CBD; Durban; South Africa, grade B,102.5,,
+ Essex Terrace,Durban, Essex Terrace; Durban; South Africa, grade B,140.0,51.6511064,-3.9341774
+ Hillcrest-Kloof (Upper Highway),Durban, Hillcrest-Kloof (Upper Highway); Durban; South Africa, grade B,131.67,,
+ La Lucia Ridge,Durban, La Lucia Ridge; Durban; South Africa, grade B,137.5,40.89399,-72.89594
+ Umhlanga,Durban, Umhlanga; Durban; South Africa, grade B,130.0,-31.4642608,27.213629
+ Westville CBD,Durban, Westville CBD; Durban; South Africa, grade B,127.5,,
+ Westway,Durban, Westway; Durban; South Africa, grade B,115.0,31.9591108,-106.575002
+ Beacon Bay,East London, Beacon Bay; East London; South Africa, grade B,107.5,-32.9694444,27.9447222
+ Berea East London,East London, Berea East London; East London; South Africa, grade B,96.5,-32.9902778,27.9172222
+ Chiselhurst,East London, Chiselhurst; East London; South Africa, grade B,93.0,-32.9855556,27.8861111
+ East London CBD,East London, East London CBD; East London; South Africa, grade B,71.5,,
+ Southernwood,East London, Southernwood; East London; South Africa, grade B,78.5,-33.0019444,27.9041667
+ Vincent,East London, Vincent; East London; South Africa, grade B,97.5,46.7862,5.48925
+ Boksburg CBD,East Rand, Boksburg CBD; East Rand; South Africa, grade B,78.75,,
+ Boksburg North,East Rand, Boksburg North; East Rand; South Africa, grade B,85.0,-26.2084475,28.2535265
+ Germiston,East Rand, Germiston; East Rand; South Africa, grade B,120.0,-26.229444,28.180556
+ Gqeberha CBD,Gqeberha, Gqeberha CBD; Gqeberha; South Africa, grade B,62.5,,
+ Humerail/Humewood,Gqeberha, Humerail/Humewood; Gqeberha; South Africa, grade B,98.33,-33.9710789,25.6343252
+ Newton Park/Cape Road,Gqeberha, Newton Park/Cape Road; Gqeberha; South Africa, grade B,84.38,-33.9480154,25.5585652
+ South End,Gqeberha, South End; Gqeberha; South Africa, grade B,75.0,42.34131,-71.0772298
+" Walmer Park 1, 2 & 3",Gqeberha," Walmer Park 1, 2 & 3; Gqeberha; South Africa", grade B,96.25,47.28167,8.45023
+ Somerset West CBD,Helderberg, Somerset West CBD; Helderberg; South Africa, grade B,85.0,,
+ Bedfordview,Johannesburg  , Bedfordview; Johannesburg  ; South Africa, grade B,108.08,-26.1763889,28.1425
+ Braamfontein,Johannesburg  , Braamfontein; Johannesburg  ; South Africa, grade B,95.0,-26.1923008,28.0361353
+ Bruma,Johannesburg  , Bruma; Johannesburg  ; South Africa, grade B,86.25,43.1539661,-8.3637157
+ Chislehurston,Johannesburg  , Chislehurston; Johannesburg  ; South Africa, grade B,126.88,,
+ Constantia Kloof,Johannesburg  , Constantia Kloof; Johannesburg  ; South Africa, grade B,110.0,-26.1447222,27.9097222
+ Dunkeld West,Johannesburg  , Dunkeld West; Johannesburg  ; South Africa, grade B,107.17,39.7598061,-105.0190455
+ Eastgate/Kramerville,Johannesburg  , Eastgate/Kramerville; Johannesburg  ; South Africa, grade B,122.5,,
+ Fourways,Johannesburg  , Fourways; Johannesburg  ; South Africa, grade B,99.0,-26.004472,28.0042447
+ Hendrik Potgieter Corridor (incl. Ruimsig),Johannesburg  , Hendrik Potgieter Corridor (incl. Ruimsig); Johannesburg  ; South Africa, grade B,95.0,,
+ Houghton,Johannesburg  , Houghton; Johannesburg  ; South Africa, grade B,107.5,46.8591287,-88.7774734
+ Hyde Park,Johannesburg  , Hyde Park; Johannesburg  ; South Africa, grade B,108.13,51.5074889,-0.1622074
+ Illovo,Johannesburg  , Illovo; Johannesburg  ; South Africa, grade B,123.83,-26.1227778,28.0552778
+ Illovo Boulevard,Johannesburg  , Illovo Boulevard; Johannesburg  ; South Africa, grade B,116.67,32.66367,-116.27363
+ Johannesburg CBD,Johannesburg  , Johannesburg CBD; Johannesburg  ; South Africa, grade B,85.0,,
+ Melrose Arch,Johannesburg  , Melrose Arch; Johannesburg  ; South Africa, grade B,137.5,-26.1319975,28.0671077
+ Midrand,Johannesburg  , Midrand; Johannesburg  ; South Africa, grade B,85.0,-25.999262,28.125912
+ Morningside,Johannesburg  , Morningside; Johannesburg  ; South Africa, grade B,110.0,55.9296409,-3.2100796
+ Ormonde,Johannesburg  , Ormonde; Johannesburg  ; South Africa, grade B,74.25,40.8550386,-90.6131898
+ Parktown,Johannesburg  , Parktown; Johannesburg  ; South Africa, grade B,107.5,-26.1816667,28.0277778
+ Randburg Ferndale,Johannesburg  , Randburg Ferndale; Johannesburg  ; South Africa, grade B,74.17,-26.0847222,27.9894444
+ Richmond/Milpark,Johannesburg  , Richmond/Milpark; Johannesburg  ; South Africa, grade B,80.0,,
+ Rivonia,Johannesburg  , Rivonia; Johannesburg  ; South Africa, grade B,92.5,-26.0533333,28.0594444
+ Rosebank,Johannesburg  , Rosebank; Johannesburg  ; South Africa, grade B,131.17,55.7260463,-3.9022029
+ Sandton CBD,Johannesburg  , Sandton CBD; Johannesburg  ; South Africa, grade B,120.25,-1.283352,36.8258824
+ Sunninghill,Johannesburg  , Sunninghill; Johannesburg  ; South Africa, grade B,87.25,51.4015129,-0.6559139
+ Waverley/Bramley,Johannesburg  , Waverley/Bramley; Johannesburg  ; South Africa, grade B,121.25,51.1633664,-0.5498919
+ Wierda Valley,Johannesburg  , Wierda Valley; Johannesburg  ; South Africa, grade B,110.0,-26.1130093,28.0573371
+ Woodmead,Johannesburg  , Woodmead; Johannesburg  ; South Africa, grade B,100.94,-26.0433333,28.0644444
+ Mbombela CBD,Mbombela, Mbombela CBD; Mbombela; South Africa, grade B,101.0,,
+ Mbombela dec,Mbombela, Mbombela dec; Mbombela; South Africa, grade B,120.0,39.84031,-88.9548
+ Peripheral CBD,Pietermaritzburg, Peripheral CBD; Pietermaritzburg; South Africa, grade B,110.0,,
+ Pietermaritzburg Core CBD,Pietermaritzburg, Pietermaritzburg Core CBD; Pietermaritzburg; South Africa, grade B,85.0,,
+ Pietermaritzburg dec,Pietermaritzburg, Pietermaritzburg dec; Pietermaritzburg; South Africa, grade B,120.0,39.84031,-88.9548
+ Polokwane,Polokwane, Polokwane; Polokwane; South Africa, grade B,119.0,-23.9058333,29.4613889
+ Arcadia,Pretoria, Arcadia; Pretoria; South Africa, grade B,85.0,34.1362075,-118.0401497
+ Brooklyn/Waterkloof,Pretoria, Brooklyn/Waterkloof; Pretoria; South Africa, grade B,122.0,-25.7740102,28.2400475
+ Centurion,Pretoria, Centurion; Pretoria; South Africa, grade B,110.0,-25.836389,28.180278
+ Faerie Glen,Pretoria, Faerie Glen; Pretoria; South Africa, grade B,106.67,-25.7816666,28.3077777
+ Hatfield/Hillcrest,Pretoria, Hatfield/Hillcrest; Pretoria; South Africa, grade B,115.0,-25.7476402,28.2378733
+ Highveld Extensions,Pretoria, Highveld Extensions; Pretoria; South Africa, grade B,120.0,,
+ Highveld Technopark,Pretoria, Highveld Technopark; Pretoria; South Africa, grade B,107.5,,
+ Lynnwood Glen,Pretoria, Lynnwood Glen; Pretoria; South Africa, grade B,110.0,-25.7727778,28.2794444
+ Lynnwood Manor,Pretoria, Lynnwood Manor; Pretoria; South Africa, grade B,122.5,-25.7630556,28.2811111
+ Lynnwood Ridge,Pretoria, Lynnwood Ridge; Pretoria; South Africa, grade B,102.5,-25.7627778,28.2933333
+ Menlo Park/Hazelwood,Pretoria, Menlo Park/Hazelwood; Pretoria; South Africa, grade B,130.0,-25.7776146,28.266343
+ Menlyn,Pretoria, Menlyn; Pretoria; South Africa, grade B,118.33,-25.7841667,28.2755556
+ Nieuw Muckleneuk,Pretoria, Nieuw Muckleneuk; Pretoria; South Africa, grade B,121.67,,
+ Pretoria CBD,Pretoria, Pretoria CBD; Pretoria; South Africa, grade B,85.0,-25.7492568,28.1920158
+ Route 21 Corp. Park,Pretoria, Route 21 Corp. Park; Pretoria; South Africa, grade B,106.67,39.11251,-100.35875
+ Silver Lakes/Die Wilgers,Pretoria, Silver Lakes/Die Wilgers; Pretoria; South Africa, grade B,105.0,,
+ Val de Grace,Pretoria, Val de Grace; Pretoria; South Africa, grade B,105.0,48.8422427,2.3438924
+ Windhoek,Windhoek, Windhoek; Windhoek; South Africa, grade B,160.0,-22.5776104,17.0772739
+ Lynnwood,Pretoria, Lynnwood; Pretoria; South Africa, grade B ,123.33,47.8278656,-122.3053932
+ Bryanston/Epsom Downs,Johannesburg  , Bryanston/Epsom Downs; Johannesburg  ; South Africa, grade B,112.5,-26.041802,28.0152277
+ Bloemfontein CBD,Bloemfontein, Bloemfontein CBD; Bloemfontein; South Africa, grade C,73.0,-29.116874,26.2197159
+ Westdene,Bloemfontein, Westdene; Bloemfontein; South Africa, grade C,77.2,50.8592269,-0.1620789
+ Bellville CBD,Cape Town, Bellville CBD; Cape Town; South Africa, grade C,76.25,,
+ Cape Town CBD,Cape Town, Cape Town CBD; Cape Town; South Africa, grade C,87.86,-33.9222066,18.4172844
+ Century City,Cape Town, Century City; Cape Town; South Africa, grade C,108.0,34.0573589,-118.4146078
+ Gardens,Cape Town, Gardens; Cape Town; South Africa, grade C,85.0,-33.9327778,18.4097222
+ Goodwood (N1 City),Cape Town, Goodwood (N1 City); Cape Town; South Africa, grade C,80.0,-33.8940341,18.5591131
+ Kuils River,Cape Town, Kuils River; Cape Town; South Africa, grade C,60.0,-33.8430868,18.6678235
+ Maitland,Cape Town, Maitland; Cape Town; South Africa, grade C,90.0,-32.7316683,151.5511123
+ Mowbray,Cape Town, Mowbray; Cape Town; South Africa, grade C,60.0,-33.9483333,18.4741667
+ Newlands,Cape Town, Newlands; Cape Town; South Africa, grade C,120.0,55.8171461,-4.2804376
+ Observatory/Black River Park,Cape Town, Observatory/Black River Park; Cape Town; South Africa, grade C,75.0,-33.9344805,18.4721497
+ Paarl,Cape Town, Paarl; Cape Town; South Africa, grade C,140.0,-33.7310282,18.9642117
+ Salt River,Cape Town, Salt River; Cape Town; South Africa, grade C,66.25,33.4667115,-111.8640311
+ Sea Point,Cape Town, Sea Point; Cape Town; South Africa, grade C,93.75,-33.9172222,18.3922222
+ Tyger Valley area,Cape Town, Tyger Valley area; Cape Town; South Africa, grade C,110.0,44.83141,9.41722
+ Tygerberg Hills/Plattekloof,Cape Town, Tygerberg Hills/Plattekloof; Cape Town; South Africa, grade C,97.5,,
+ Woodstock,Cape Town, Woodstock; Cape Town; South Africa, grade C,70.0,42.0410578,-74.1182492
+ Wynberg,Cape Town, Wynberg; Cape Town; South Africa, grade C,83.33,-34.0036249,18.4672507
+ Durban Berea,Durban, Durban Berea; Durban; South Africa, grade C,69.3,-29.8505556,31.0019444
+ Durban CBD,Durban, Durban CBD; Durban; South Africa, grade C,85.0,,
+ Hillcrest-Kloof (Upper Highway),Durban, Hillcrest-Kloof (Upper Highway); Durban; South Africa, grade C,111.67,,
+ Umhlanga,Durban, Umhlanga; Durban; South Africa, grade C,100.0,-31.4642608,27.213629
+ Westway,Durban, Westway; Durban; South Africa, grade C,100.0,31.9591108,-106.575002
+ Beacon Bay,East London, Beacon Bay; East London; South Africa, grade C,97.5,-32.9694444,27.9447222
+ Berea East London,East London, Berea East London; East London; South Africa, grade C,85.0,-32.9902778,27.9172222
+ Chiselhurst,East London, Chiselhurst; East London; South Africa, grade C,81.5,-32.9855556,27.8861111
+ East London CBD,East London, East London CBD; East London; South Africa, grade C,62.5,,
+ Southernwood,East London, Southernwood; East London; South Africa, grade C,58.33,-33.0019444,27.9041667
+ Vincent,East London, Vincent; East London; South Africa, grade C,87.33,46.7862,5.48925
+ Benoni CBD,East Rand, Benoni CBD; East Rand; South Africa, grade C,55.0,,
+ Boksburg CBD,East Rand, Boksburg CBD; East Rand; South Africa, grade C,56.25,,
+ Boksburg North,East Rand, Boksburg North; East Rand; South Africa, grade C,45.0,-26.2084475,28.2535265
+ Germiston,East Rand, Germiston; East Rand; South Africa, grade C,92.5,-26.229444,28.180556
+ Gqeberha CBD,Gqeberha, Gqeberha CBD; Gqeberha; South Africa, grade C,53.33,,
+ Humerail/Humewood,Gqeberha, Humerail/Humewood; Gqeberha; South Africa, grade C,86.67,-33.9710789,25.6343252
+ Newton Park/Cape Road,Gqeberha, Newton Park/Cape Road; Gqeberha; South Africa, grade C,70.5,-33.9480154,25.5585652
+ South End,Gqeberha, South End; Gqeberha; South Africa, grade C,57.5,42.34131,-71.0772298
+" Walmer Park 1, 2 & 3",Gqeberha," Walmer Park 1, 2 & 3; Gqeberha; South Africa", grade C,81.25,47.28167,8.45023
+ Bedfordview,Johannesburg  , Bedfordview; Johannesburg  ; South Africa, grade C,85.0,-26.1763889,28.1425
+ Braamfontein,Johannesburg  , Braamfontein; Johannesburg  ; South Africa, grade C,77.5,-26.1923008,28.0361353
+ Bruma,Johannesburg  , Bruma; Johannesburg  ; South Africa, grade C,77.0,43.1539661,-8.3637157
+ Chislehurston,Johannesburg  , Chislehurston; Johannesburg  ; South Africa, grade C,95.0,,
+ Constantia Kloof,Johannesburg  , Constantia Kloof; Johannesburg  ; South Africa, grade C,95.0,-26.1447222,27.9097222
+ Dunkeld West,Johannesburg  , Dunkeld West; Johannesburg  ; South Africa, grade C,93.0,39.7598061,-105.0190455
+ Eastgate/Kramerville,Johannesburg  , Eastgate/Kramerville; Johannesburg  ; South Africa, grade C,85.0,,
+ Fourways,Johannesburg  , Fourways; Johannesburg  ; South Africa, grade C,87.6,-26.004472,28.0042447
+ Greenstone,Johannesburg  , Greenstone; Johannesburg  ; South Africa, grade C,65.0,49.7188752,-86.9493168
+ Hendrik Potgieter Corridor (incl. Ruimsig),Johannesburg  , Hendrik Potgieter Corridor (incl. Ruimsig); Johannesburg  ; South Africa, grade C,85.5,,
+ Illovo,Johannesburg  , Illovo; Johannesburg  ; South Africa, grade C,101.5,-26.1227778,28.0552778
+ Johannesburg CBD,Johannesburg  , Johannesburg CBD; Johannesburg  ; South Africa, grade C,57.5,,
+ Midrand,Johannesburg  , Midrand; Johannesburg  ; South Africa, grade C,60.83,-25.999262,28.125912
+ Morningside,Johannesburg  , Morningside; Johannesburg  ; South Africa, grade C,87.5,55.9296409,-3.2100796
+ Ormonde,Johannesburg  , Ormonde; Johannesburg  ; South Africa, grade C,62.0,40.8550386,-90.6131898
+ Parktown,Johannesburg  , Parktown; Johannesburg  ; South Africa, grade C,89.4,-26.1816667,28.0277778
+ Randburg Ferndale,Johannesburg  , Randburg Ferndale; Johannesburg  ; South Africa, grade C,62.5,-26.0847222,27.9894444
+ Richmond/Milpark,Johannesburg  , Richmond/Milpark; Johannesburg  ; South Africa, grade C,67.5,,
+ Rivonia,Johannesburg  , Rivonia; Johannesburg  ; South Africa, grade C,78.86,-26.0533333,28.0594444
+ Rosebank,Johannesburg  , Rosebank; Johannesburg  ; South Africa, grade C,103.5,55.7260463,-3.9022029
+ Sandton CBD,Johannesburg  , Sandton CBD; Johannesburg  ; South Africa, grade C,91.88,-1.283352,36.8258824
+ Sunninghill,Johannesburg  , Sunninghill; Johannesburg  ; South Africa, grade C,72.25,51.4015129,-0.6559139
+ Wierda Valley,Johannesburg  , Wierda Valley; Johannesburg  ; South Africa, grade C,85.0,-26.1130093,28.0573371
+ Woodmead,Johannesburg  , Woodmead; Johannesburg  ; South Africa, grade C,77.14,-26.0433333,28.0644444
+ Mbombela CBD,Mbombela, Mbombela CBD; Mbombela; South Africa, grade C,72.0,,
+ Mbombela dec,Mbombela, Mbombela dec; Mbombela; South Africa, grade C,99.0,39.84031,-88.9548
+ Peripheral CBD,Pietermaritzburg, Peripheral CBD; Pietermaritzburg; South Africa, grade C,85.0,,
+ Pietermaritzburg Core CBD,Pietermaritzburg, Pietermaritzburg Core CBD; Pietermaritzburg; South Africa, grade C,65.0,,
+ Pietermaritzburg dec,Pietermaritzburg, Pietermaritzburg dec; Pietermaritzburg; South Africa, grade C,90.0,39.84031,-88.9548
+ Polokwane,Polokwane, Polokwane; Polokwane; South Africa, grade C,88.33,-23.9058333,29.4613889
+ Arcadia,Pretoria, Arcadia; Pretoria; South Africa, grade C,75.0,34.1362075,-118.0401497
+ Brooklyn/Waterkloof,Pretoria, Brooklyn/Waterkloof; Pretoria; South Africa, grade C,95.0,-25.7740102,28.2400475
+ Centurion,Pretoria, Centurion; Pretoria; South Africa, grade C,90.0,-25.836389,28.180278
+ Faerie Glen,Pretoria, Faerie Glen; Pretoria; South Africa, grade C,87.5,-25.7816666,28.3077777
+ Hatfield/Hillcrest,Pretoria, Hatfield/Hillcrest; Pretoria; South Africa, grade C,93.0,-25.7476402,28.2378733
+ Highveld Extensions,Pretoria, Highveld Extensions; Pretoria; South Africa, grade C,110.0,,
+ Lynnwood,Pretoria, Lynnwood; Pretoria; South Africa, grade C,88.75,47.8278656,-122.3053932
+ Lynnwood Glen,Pretoria, Lynnwood Glen; Pretoria; South Africa, grade C,87.5,-25.7727778,28.2794444
+ Lynnwood Manor,Pretoria, Lynnwood Manor; Pretoria; South Africa, grade C,100.0,-25.7630556,28.2811111
+ Lynnwood Ridge,Pretoria, Lynnwood Ridge; Pretoria; South Africa, grade C,83.33,-25.7627778,28.2933333
+ Menlo Park/Hazelwood,Pretoria, Menlo Park/Hazelwood; Pretoria; South Africa, grade C,100.0,-25.7776146,28.266343
+ Menlyn,Pretoria, Menlyn; Pretoria; South Africa, grade C,92.5,-25.7841667,28.2755556
+ Nieuw Muckleneuk,Pretoria, Nieuw Muckleneuk; Pretoria; South Africa, grade C,97.5,,
+ Pretoria CBD,Pretoria, Pretoria CBD; Pretoria; South Africa, grade C,62.5,-25.7492568,28.1920158
+ Route 21 Corp. Park,Pretoria, Route 21 Corp. Park; Pretoria; South Africa, grade C,105.0,39.11251,-100.35875
+ Silver Lakes/Die Wilgers,Pretoria, Silver Lakes/Die Wilgers; Pretoria; South Africa, grade C,97.5,,
+ Sunnyside,Pretoria, Sunnyside; Pretoria; South Africa, grade C,62.5,46.3246419,-120.0081898
+ Val de Grace,Pretoria, Val de Grace; Pretoria; South Africa, grade C,75.0,48.8422427,2.3438924
+ Windhoek,Windhoek, Windhoek; Windhoek; South Africa, grade C,127.5,-22.5776104,17.0772739
+ Bryanston/Epsom Downs,Johannesburg  , Bryanston/Epsom Downs; Johannesburg  ; South Africa, grade C,89.5,-26.041802,28.0152277

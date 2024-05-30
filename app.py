@@ -140,6 +140,8 @@ def register():
         users[username] = generate_password_hash(password)
         return jsonify({"message": "User registered successfully"}), 201
 
+
+    
 @app.route('/property', methods=['GET'])
 def get_property_data():
     address = request.args.get('address')

@@ -8,3 +8,6 @@ gunicorn
 streamlit
 streamlit-folium
 folium
+flask-cors 
+werkzeug 
+pandas

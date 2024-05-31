@@ -140,13 +140,16 @@ def filter_results(address, property_type, industrial_size, industrial_subtype, 
         rentals = is_near(location, rentals_industrial_gdf.dropna(), distance)
         caprates = is_near(location, cap_industrial_gdf.dropna(), distance)
 
-        rentals = rentals[rentals["size"] >= industrial_size]
+        rentals = rentals[rentals["size"] >= float(industrial_size)]
         caprates = caprates[caprates["industrial_subtype"] == industrial_subtype]
 
-    result = pd.merge(rentals, caprates, on=['area', 'region'], how='outer')
-    result['latitude'] = result['latitude_x']
-    result['longitude'] = result['longitude_x']
-    # result = result.fillna(0)
+    if caprates.size > 0:
+        caprate = caprates.iloc[0]['caprate']
+    else:
+        caprate = 0
+    rentals['caprate'] = caprate
+    result = rentals
+
     return result
 
 def calc_valuation(df, expense=0.3):

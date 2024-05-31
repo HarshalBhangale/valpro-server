@@ -8,3 +8,4 @@ gunicorn
 streamlit
 streamlit-folium
 folium
+flask_cors

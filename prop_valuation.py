@@ -177,4 +177,3 @@ if __name__ == '__main__':
     office_grade = 'A'
 
     json_result = compute_valuation(address, property_type, industrial_size, industrial_subtype, office_grade)
-    print(json_result)

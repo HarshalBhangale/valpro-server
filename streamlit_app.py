@@ -23,7 +23,6 @@ def main():
     if submit_button:
         valuations = compute_valuation(address, property_type, industrial_size, industrial_subtype, office_grade)
         print(address, property_type, industrial_size, industrial_subtype, office_grade)
-        print(valuations)
 
         if valuations and len(valuations) > 0:
             # Create a map centered around the first valuation result (or another logical center)
